@@ -1,0 +1,5 @@
+name: Example Ajax
+type: module
+description: Provide the Example code for an ajax call back in Drupal 8.
+core: 8.x
+package: Custom
